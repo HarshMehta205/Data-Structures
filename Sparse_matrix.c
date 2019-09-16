@@ -1,5 +1,5 @@
 /*
-To write a C program for sparse matrix reslization and operations on it - Transpose and Fast transpose
+To write a C program for sparse matrix realization and operations on it - Transpose and Fast transpose
 
 */
 
