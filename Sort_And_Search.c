@@ -112,7 +112,7 @@ stud accept(stud s[50],int n)                  //accepting the datas of the
 
 
 
-void display(stud s[50],int n)                       //displaying the elements of the structure
+void display(stud s[50],int n)                       //displaying the elements of the structures
    { 
         int i;
 	for(i=0;i<n;i++)
